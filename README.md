@@ -11,8 +11,8 @@
 
 Данный установщик базируется на ядре **usque**, разработанном талантливым разработчиком под ником **wyhaya**.
 
-  * **Автор бинарного файла:** [wyhaya](https://github.com/wyhaya)
-  * **Официальный репозиторий ядра:** [github.com/wyhaya/usque](https://www.google.com/search?q=https://github.com/wyhaya/usque)
+  * **Автор бинарного файла:** [Diniboy1123](https://github.com/Diniboy1123/usque)
+  * **Официальный репозиторий ядра:** [https://github.com/Diniboy1123/usque]
 
 -----
 
